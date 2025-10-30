@@ -1,4 +1,4 @@
-#GenIR — Multi-Seed + OOD + Time-Wall (IRLab-ready)
+#GenIR_ Multi-Seed + OOD + Time-Wall (IRLab-ready)
 
 Hybrid Retrieval (BM25 + Bayes) +  Seq2DocID (NCI) + PyTorch.
 - OOD  confidence.
