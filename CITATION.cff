@@ -1,0 +1,11 @@
+cff-version: 1
+message: "If you use this repository, please cite it as below."
+title: "GenIR_ Hybrid BM25+Bayes+Seq2DocID with OOD & Time-Wall"
+authors:
+  - family-names: Barmaki
+    given-names: Mohammad Yasin
+    affiliation: University of Tehran
+    email: yassin.barmaki@ut.ac.ir
+license: MIT
+date-released: 2025-10-30
+repository-code: "https://github.com/YassinBarmaki/genir-application-uvA"
